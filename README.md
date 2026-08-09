@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0173-binary-search-tree-iterator](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Saikat-51/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
@@ -46,9 +47,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Saikat-51/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Saikat-51/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
