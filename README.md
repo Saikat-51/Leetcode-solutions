@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
