@@ -1,6 +1,6 @@
 class Solution {
 public:
-    pair<int, int> solve(vector<int>& numbers, int target) {
+     vector<int> twoSum(vector<int>& numbers, int target) {
         int i = 0;
         int j = numbers.size()-1;
         while (i < j) {
@@ -11,11 +11,6 @@ public:
             else
                 j--;
         }
-        return {-1, -1};
-    }
-
-    vector<int> twoSum(vector<int>& numbers, int target) {
-        auto ans = solve(numbers, target);
-        return {ans.first, ans.second};
+        return {};
     }
 };
