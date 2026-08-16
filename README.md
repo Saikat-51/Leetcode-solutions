@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## String
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -179,5 +181,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
