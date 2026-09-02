@@ -7,6 +7,6 @@ public:
             if(nums[mid]<nums[end]) end=mid;
             else st = mid+1;
         }
-        return nums[st];
+        return nums[end];
     }
 };
