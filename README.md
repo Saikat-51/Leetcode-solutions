@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0055-jump-game) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -317,4 +319,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
