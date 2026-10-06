@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0046-permutations) |
 ## Bracket Sequences
 |  |
 | ------- |
