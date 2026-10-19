@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0605-can-place-flowers](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0134-gas-station) |
+| [0605-can-place-flowers](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Graph Theory
 |  |
 | ------- |
