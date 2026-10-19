@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Saikat-51/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1768-merge-strings-alternately](https://github.com/Saikat-51/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Queue
 |  |
 | ------- |
