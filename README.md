@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Graph Theory
 |  |
@@ -360,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/Saikat-51/Leetcode-solutions/tree/master/1280-students-and-examinations) |
 | [1661-average-time-of-process-per-machine](https://github.com/Saikat-51/Leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1934-confirmation-rate](https://github.com/Saikat-51/Leetcode-solutions/tree/master/1934-confirmation-rate) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Saikat-51/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
